@@ -58,7 +58,7 @@ Model Evaluation
 - Scikit-learn
 - Jupyter Notebook
 - Git & GitHub
-- 
+   
 ## Repository Structure
 MachineLearningProjects/
 │
