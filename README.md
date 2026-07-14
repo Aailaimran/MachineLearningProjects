@@ -58,15 +58,6 @@ Model Evaluation
 - Scikit-learn
 - Jupyter Notebook
 - Git & GitHub
-   
-## Repository Structure
-MachineLearningProjects/
-│
-├── Project01_DecisionTree_TitanicDataset/
-│
-├── Project02_LogisticRegression_BreastCancerDataset/
-│
-└── README.md
 
 ## Learning Goals
 - Data Preprocessing
